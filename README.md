@@ -30,7 +30,7 @@ NotePad
 <p>💻 Visual Studio Code</p>
 
 ## 👉 | COMO BAIXAR E USAR?
-
+  <img src="./img/baixar.gif">
 <div>
     
 </div>
