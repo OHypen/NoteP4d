@@ -14,12 +14,6 @@ NotePad
   </a>
 </p>
 
-## ✅ | VIDEO
-<div>
-    
-</div>
-
-
 ## 🚀 | TECNOLOGIAS
 
 - 🧪 | PYTHON
