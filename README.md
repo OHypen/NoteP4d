@@ -3,10 +3,10 @@
   <img src="readme/googlelogo.png" alt="" width="120">
 <br>
 <br>
-AlarmeONGO
+NotePad
 </h1>
 
-<p align="center">Seu notpad feito em Python</p>
+<p align="center">Seu notepad feito em Python</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -29,6 +29,7 @@ AlarmeONGO
 <p>💻 Visual Studio Code</p>
 
 ## 👉 | COMO BAIXAR E USAR?
+
 <div>
     
 </div>
