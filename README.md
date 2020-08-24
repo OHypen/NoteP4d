@@ -23,6 +23,7 @@ NotePad
 ## 🚀 | TECNOLOGIAS
 
 - 🧪 | PYTHON
+- 🎨 | PySimpleGUI
 
 ## 🔨 | FERRAMENTAS
 
