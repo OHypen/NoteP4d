@@ -24,10 +24,7 @@ NotePad
 <p>💻 Visual Studio Code</p>
 
 ## 👉 | COMO BAIXAR E USAR?
-  <img src="./img/baixar.gif">
-  <h4>AVISO!!</h4>
-  - Qundo você baixar o app o windows ou seu anti virus, Bloqueará o app porque o app não é reconhecido e achara que é virus! Mais ai é só pertimitir o app e usar.
-  - Podem confiar
+
 <div>
     
 </div>
