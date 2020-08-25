@@ -1,4 +1,5 @@
 import PySimpleGUI as sg
+from cx_Freeze import setup, Executable
 
 sg.ChangeLookAndFeel("DarkBrown") # Temas
 
@@ -32,7 +33,7 @@ window = sg.Window(
     margins=(0, 0),
     resizable=True,
     return_keyboard_events=True,
-    icon="./logo.ico",
+    icon="./img/logo.ico",
 )
 window.read(timeout=1)
 
