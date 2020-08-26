@@ -24,7 +24,11 @@ NotePad
 <p>💻 Visual Studio Code</p>
 
 ## 👉 | COMO BAIXAR E USAR?
-
+  - Baixe o Python | https://www.youtube.com/watch?v=FcfalMf9bRY
+  - Baixe o PySimpleGUI | Como Baixar: 
+      - Abra seu CMD, e digite pip install pysimplegui
+      aguarde...
+  - Pronto agora siga o tutorial abaixo:
 <div>
     
 </div>
