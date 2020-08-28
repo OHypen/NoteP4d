@@ -29,6 +29,10 @@ NotePad
       - Abra seu CMD, e digite pip install pysimplegui
       - aguarde...
   - Pronto agora siga o tutorial abaixo:
+      - Clone o repositorio
+      - Com o Repositorio clonado abra o notepad.py
+          - E pronto...
+          - Agora é só usar!
 <div>
     
 </div>
