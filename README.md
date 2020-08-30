@@ -33,6 +33,7 @@ NotePad
       - Com o Repositorio clonado abra o notepad.py
           - E pronto...
           - Agora é só usar!
+       - Facil né??
 <div>
     
 </div>
