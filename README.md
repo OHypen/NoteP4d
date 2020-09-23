@@ -34,6 +34,10 @@ NotePad
           - E pronto...
           - Agora é só usar!
        - Facil né??
+   ___________________________________________________________________
+   - você pode usar o instalador.msi
+      - Mais tem um porem! | O seu antivirus detectara como virus!
+        - Então o mais recomendado é o tutorial acima...
 <div>
     
 </div>
