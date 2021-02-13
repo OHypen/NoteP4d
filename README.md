@@ -43,7 +43,7 @@ NotePad
 </div>
 <h2>🌠 | INSTAGRAM</h2>
 
-https://www.instagram.com/lszofficial/
+https://www.instagram.com/lszinxx/
 
 ## 📜 LICENSE
 
