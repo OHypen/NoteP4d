@@ -22,7 +22,7 @@ Technologies used 💻
 ### how to execute the project?
 ```diff
 + 1) Download Python: https://python.org
-+ 2) Open Shell - type it: pip install Pillow
++ 2) Open Shell - type it: pip install PySimpleGUI
 + 3) Clone the project
 + 4) Unzip the project
 + 5) Run the project
