@@ -1,7 +1,7 @@
-import PySimpleGUI as sg
+import PySimpleGUI as sg #pip install PySimpleGUI
 from cx_Freeze import setup, Executable
 
-sg.ChangeLookAndFeel("DarkBrown") # Temas
+sg.ChangeLookAndFeel("DarkBrown") # Theame
 
 WIN_W = 90
 WIN_H = 25
