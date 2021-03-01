@@ -27,4 +27,15 @@ Technologies used 💻
 + 4) Unzip the project
 + 5) Run the project
 ```
+</br>
+</Br>
+
+## Use rights 🔖
+</br>
+
+You have full right to use this project for: study, for-profit purposes, changes to the source code and etc ...
+ But you will need to give credit, unless you change at least 55% of the code.
+
+
+
 <a href="https://instagram.com/lszinxx/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
