@@ -18,3 +18,12 @@ Technologies used 💻
    </tr>
 
 </table>
+
+### how to execute the project?
+```diff
++ 1) Download Python: https://python.org
++ 2) Open Shell - type it: pip install Pillow
++ 3) Clone the project
++ 4) Unzip the project
++ 5) Run the project
+```
