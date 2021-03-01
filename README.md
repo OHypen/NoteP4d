@@ -27,3 +27,4 @@ Technologies used 💻
 + 4) Unzip the project
 + 5) Run the project
 ```
+<a href="https://www.com/lszinxx/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
